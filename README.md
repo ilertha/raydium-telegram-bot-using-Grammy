@@ -70,7 +70,7 @@ npm start
 ### Contact me
 If you need more technical support and development inquires, you can contact below.
 
-Telegram: [@Becklix](https://t.me/@Becklix)
+Telegram: [@james_ybarra](https://t.me/@james_ybarra)
 
 X: [@james980114](https://x.com/james980114)
 
