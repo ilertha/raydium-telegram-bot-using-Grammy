@@ -70,10 +70,8 @@ npm start
 ### Contact me
 If you need more technical support and development inquires, you can contact below.
 
-Telegram: [@james_ybarra](https://t.me/@james_ybarra)
+Telegram: [@ethualtera](https://t.me/@ethualtera)
 
-X: [@james980114](https://x.com/james980114)
-
-Discord: [@Benix](https://discordapp.com/users/393598468653842432)
+X: [@ethualtera](https://x.com/ethualtera)
 
 Thanks.
