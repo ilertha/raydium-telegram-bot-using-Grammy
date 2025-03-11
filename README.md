@@ -70,8 +70,8 @@ npm start
 ### Contact me
 If you need more technical support and development inquires, you can contact below.
 
-Telegram: [@ethualtera](https://t.me/@ethualtera)
+Telegram: [@ilertha](https://t.me/@ilertha)
 
-X: [@ethualtera](https://x.com/ethualtera)
+X: [@ilertha](https://x.com/ilertha)
 
 Thanks.
